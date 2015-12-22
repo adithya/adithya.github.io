@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Adithya Sudarsan
+email: asdrsnn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ I write here infrequently about my interests, most of time, this means articles about technology,
+ but occasionly its  about something completely random. Either way, I hope you enjoy what I write.
+ © 2015–2016 Adithya Sudarsan.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://adithya.github.io" # the base hostname & protocol for your site
+twitter_username: _adithyas
+github_username:  adithya
+port: 3000 # change server port to 3000
+
+# Build settings
+markdown: kramdown

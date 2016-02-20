@@ -12,7 +12,7 @@ His latest article is a great explanation of what I affectionality refer to as "
 
 When your done reading that and want to learn more, make sure to read through the [archive ][archive] of Jeff's articles. 
 
-[reading]: [https://support.1password.com/authentication-vs-encryption/]
-[number]: [https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/]
-[excellent]: [https://blog.agilebits.com/2015/03/30/bcrypt-is-great-but-is-password-cracking-infeasible/]
-[archive]: [https://blog.agilebits.com/author/jeff/]
+[reading]: https://support.1password.com/authentication-vs-encryption/
+[number]: https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/
+[excellent]: https://blog.agilebits.com/2015/03/30/bcrypt-is-great-but-is-password-cracking-infeasible/
+[archive]: https://blog.agilebits.com/author/jeff/

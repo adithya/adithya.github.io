@@ -2,7 +2,7 @@
 title:  "1Password tells us why back doors are bad"
 layout: post
 date:   2016-02-20 9:50:00 -0500
-categories: development, security 
+categories: development 
 external-url: https://blog.agilebits.com/2015/04/29/back-doors-are-bad-for-security-architecture/
 ---
 

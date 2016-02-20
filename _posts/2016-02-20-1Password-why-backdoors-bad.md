@@ -10,7 +10,7 @@ Over the past few months I have been [reading][reading] a [number][number] of [e
 
 His latest article is a great explanation of what I affectionality refer to as "the great back door debacle". 
 
-When your done reading that and want to learn more, I ecnourage you to read through the Jeff's [older][archive] articles. 
+When your done reading that and want to learn more, I ecnourage you to read through the Jeff's [older][archive] pieces. 
 
 [reading]: https://support.1password.com/authentication-vs-encryption/
 [number]: https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/

@@ -6,11 +6,11 @@ categories: development, security
 external-url: https://blog.agilebits.com/2015/04/29/back-doors-are-bad-for-security-architecture/
 ---
 
-Over the past few months I have been [reading][reading] a [number][number] of [excellent][excellent] articles from Jeffery Goldberg at 1Password who effectively explains various topics in cryptography and security. 
+Over the past few months I have been [reading][reading] a [number][number] of [excellent][excellent] articles from Jeffery Goldberg at 1Password. Jeffery has an uncanny ability to clearly explain various topics in cryptography and security, I find his articles a joy to read. 
 
-His latest article is a great explanation of what I affectionality refer to as "the great back door debacle", if your looking for a solid understanding of the situation, this is a great place to start. 
+His latest article is a great explanation of what I affectionality refer to as "the great back door debacle". 
 
-When your done reading that and want to learn more, make sure to read through the [archive ][archive] of Jeff's articles. 
+When your done reading that and want to learn more, I ecnourage you to read through the Jeff's [older][archive] articles. 
 
 [reading]: https://support.1password.com/authentication-vs-encryption/
 [number]: https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/

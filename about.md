@@ -22,7 +22,7 @@ I'm basically your average off-the-shelf nerd.
 
 <br>
 
-##Details about the site
+#The Site
 
 While I used to write on Tumblr, after finding that to be no longer sufficient for my needs I decided to go a different route. 
 

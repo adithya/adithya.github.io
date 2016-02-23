@@ -20,7 +20,6 @@ When I'm not listening to podcasts or writing code, I'm ogling cars, going on wa
 
 I'm basically your average off-the-shelf nerd.
 
-<br>
 
 #The Site
 

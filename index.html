@@ -8,7 +8,7 @@ layout: default
     {% for post in site.posts %}
        <div class="entry">
 		
-		<h1>
+		<h2>
 			{% if post.external-url %}
   		  	<a href="{{ post.external-url }}">
     			{{ post.title }}
@@ -17,7 +17,7 @@ layout: default
     			{{ post.title }}
   		  	</a>
 			{% endif %}
-		</h1>
+		</h2>
 
 
 		<div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp; <a href="{{ post.url }}">Permalink</a></div>

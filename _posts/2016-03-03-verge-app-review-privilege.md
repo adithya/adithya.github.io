@@ -25,6 +25,6 @@ So, the way I see it, you can choose to look at this article in two ways. The fi
 
 [^1]: To be sure, the people at Pixite seem very intelligent, and do take responsbility for their missteps, but this article tries to paint it as a broader App Store issue, and thats what everyone else seems to see it as too, which is what I take issue with. 
 
-[^2]: I'm not saying Apple can't make the App Store store better, or provide us with more oppurtunities, but they're just that, oppurtunities. You are still competing in the same marketplace, with the same apps, and for the same consumers, and there's not much Apple can do about that. 
+[^2]: I'm not saying Apple can't make the App Store store better, or provide us with more oppurtunities, but they're just that, oppurtunities. You are still competing in the same marketplace, with the same apps, for the same consumers, and there's not much Apple can do about that. 
 
-[^3]: Granted, not <b>everything</b> is about hard work, luck does play a factor in a given app's succeess in the App Store. That said, every business environment is going to be unfair and imperfect in some way, but as business owners its childish and irresponsible to let it that be crux of the business.  
+[^3]: Granted, not <b>everything</b> is about hard work, luck does play a factor in a given app's succeess in the App Store. That said, every business environment is going to be unfair and imperfect in some way, but as business owners its childish and irresponsible to let that be crux of our businesses.  

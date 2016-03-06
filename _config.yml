@@ -9,8 +9,6 @@
 title: Adithya Sudarsan
 email: asdrsnn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- I write here infrequently about my interests, most of time, this means articles about technology,
- but occasionly its  about something completely random. Either way, I hope you enjoy what I write.
  © 2015–2016 Adithya Sudarsan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://adithya.github.io" # the base hostname & protocol for your site

@@ -5,9 +5,8 @@ layout: default
 <div class="home">
 
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts  limit: 10 %}
        <div class="entry">
-		
 		<h2>
 			{% if post.external-url %}
   		  	<a href="{{ post.external-url }}">
@@ -19,18 +18,16 @@ layout: default
 			{% endif %}
 		</h2>
 
-
 		<div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp; <a href="{{ post.url }}">Permalink</a></div>
 		<br>
    
 		   
-		
 	    <div class="post-content">
 	      {{ post.content }}
 	    </div>
-
+		
        </div>
        {% endfor %}
-	</ul>     
-
+	   <br><br><b><center>Find the site archives <a href="/archive">here</a>.</center></b>
+	</ul>
 </div>

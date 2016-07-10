@@ -1,8 +1,8 @@
 ---
 title:  "Designing Effective Sociotechnical Solutions"
 layout: post
-date: 2016-07-10 10:00:00 -0500
-categories: tech
+date:   2016-07-10 9:00:00 -0500
+categories: development
 external-url: https://medium.com/@EthanZ/the-worst-thing-i-read-this-year-and-what-it-taught-me-or-can-we-design-sociotechnical-systems-4c8c51074337#.6ccr8322r
 ---
 
@@ -14,6 +14,5 @@ This piece is so good I desperately want to quote the entire thing. But I would 
 {: title="Blockquote title"}
 
 I dislike discouraging the act of trying to chart unknown territories in an effort to solve problems in novel ways. But too often, especially in the tech industry, I see technology that lacks empathy and understanding of the market it desgined for, and as a result, I think for those of us working in tech industry, its worth considering these questions for ourselves, and in the context that is relevant to the problems we want to solve. 
-
 
 [snow-prison]: http://maneatingrobot.com/96/prison-reform-via-soylent-and-oculus/

@@ -1,7 +1,7 @@
 ---
 title:  "How Slopes is doing after changing business models"
 layout: post
-date:   1:48:00 -0500
+date:  2016-03-10 1:48:00 -0500
 categories: development
 external-url: http://blog.curtisherbert.com/slopes-diaries-12-progress-check/
 ---

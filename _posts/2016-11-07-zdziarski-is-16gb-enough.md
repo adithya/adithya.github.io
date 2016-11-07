@@ -13,6 +13,6 @@ While I agree with the premise that 16GB is plenty for most users, including mys
 
 In the high end 15" configurations, configurations that cost upwards of $4,000 USD, it is problematic to have a machine that is so incredibly capable being potentially limited by RAM. And while Zdziarski shows that it takes a truly special work load to max-out 16GB of RAM, the people paying $4K USD for the Macbook Pro are probably also the kind of people that have such demanding work loads. 
 
-Its also worth noting that some of Apple's customers are keeping their computers for a considerable period of time (5< years), over this time the nature of what a generous amount of RAM is will inevitably change, and so having a 32GB option would give these customers a way to reasonably protect the utility of their investment. 
+Its also worth noting that some of Apple's customers are keeping their computers for a considerable period of time (5< years), over this time the nature of what a generous amount of RAM is will inevitably change, and so having a 32GB option would give these customers a way to reasonably protect the utility of their investmentt. 
 
 All said and done though, its not an affront to humanity that the new Macbook Pros are limited to 16GB of RAM, especially given the speed of the SSDs, and the ever increasing practicality of swap.

@@ -1,7 +1,7 @@
 ---
 title:  "The Future of Indie Podcasting"
 layout: post
-date:   2016-23-07 10:00:00 -0500
+date:   2016-11-23 10:00:00 -0500
 categories: podcasts
 external-url: https://www.hotpodnews.com/2016/11/five-perspectives-on-indie-pods-third-coast-debrief-translation/
 ---

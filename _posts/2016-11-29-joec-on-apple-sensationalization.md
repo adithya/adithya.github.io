@@ -6,7 +6,7 @@ categories: Apple
 external-url: http://www.joecieplinski.com/blog/2016/11/29/the-premise/
 ---
 
-We seek out more support of our original premise, rather than reading the facts and then drawing independent conclusions.
+>We seek out more support of our original premise, rather than reading the facts and then drawing independent conclusions.
 {: title="Blockquote title"}
 
 I've seen an overwhelming amount of negativity in regards to Apple products from the Apple community at large as of late, and to be sure, there are worthwhile criticisms to be voiced.

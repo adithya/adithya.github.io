@@ -10,15 +10,11 @@ permalink: /about/
 
 My name is Adithya Sudarsan, and this is my home on the internet, welcome.
 
-Currently I'm studying computer science at the [University of Windsor](http://www.uwindsor.ca). When I'm not doing my homework, you can usually find me working on apps for any one of Apple's platforms. 
+Currently I'm studying computer science at the [University of Windsor](http://www.uwindsor.ca). When I'm not doing my homework, you can usually find me either creating software for one of Apple's platforms, trying to better understand information security and computer security policy, or trying to communicate interesting ideas through various forms of media. 
 
-Either way whether its school work, or programming, I spend most of time in front of a 15" Retina Macbook Pro, listening to music on my [Senheiser HD280](http://en-us.sennheiser.com/professional-dj-headphones-noise-cancelling-hd-280-pro). 
-
-I really enjoy podcasts, my current favorites are the [Accidental Tech Podcast](http://atp.fm), [Under the Radar](https://www.relay.fm/radar), [The Talk Show](https://daringfireball.net/thetalkshow/), [Rocket](https://www.relay.fm/rocket), [Debug](http://www.imore.com/debug), [Less Than or Equal](https://www.relay.fm/ltoe/), [More than Just the Code](http://mtjc.fm), and [Top Four](https://www.relay.fm/topfour). 
+I also really enjoy podcasts, my current favorites are the [Accidental Tech Podcast](http://atp.fm), [Under the Radar](https://www.relay.fm/radar), [Defensive Security](https://defensivesecurity.org), [Disruption](https://www.relay.fm/disruption), [Debug](http://www.imore.com/debug), [Cortex](https://www.relay.fm/cortex), [More than Just the Code](http://mtjc.fm), and [Top Four](https://www.relay.fm/topfour). 
 
 When I'm not listening to podcasts or writing code, I'm ogling cars, going on walks, biking, or reading through my [Instapaper](https://www.instapaper.com) queue. 
-
-I'm basically your average off-the-shelf nerd.
 
 <br>
 

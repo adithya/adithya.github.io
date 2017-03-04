@@ -1,5 +1,5 @@
 ---
-title:  "Why you should deeply fear Trump - a beginners guide"
+title:  "The FCC is on a mission to make the Internet worse"
 layout: post
 date:   2017-03-04 4:00:00 -0500
 categories: policy
